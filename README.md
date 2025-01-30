@@ -5,3 +5,9 @@ A simple and interactive web-based Bucket List application built using HTML, CSS
 ✅ Add new items to your bucket list.
 ✅ Mark items as completed.
 ✅ Responsive design for a seamless experience on all devices.
+
+
+📂 Tech Stack:
+HTML – Structure of the webpage
+CSS – Styling for a clean and user-friendly interface
+JavaScript – Interactive functionalities
